@@ -3,6 +3,9 @@ Moocherbro
 
 Moocherbro is a node.js application meant to collect items from Potfarm's moocherpro.
 
+##Todo
+Automate process completely using spooky.js, casper.js and phantomjs
+
 ##How to use:
 
 	git clone https://github.com/iamtomcat/moocherbro.git
